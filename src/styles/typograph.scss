@@ -1,0 +1,44 @@
+@mixin title-web {
+  font-weight: 500;
+  font-size: 4rem;
+}
+
+@mixin subtitle-web {
+  font-weight: 400;
+  font-size: 3rem;
+}
+
+@mixin subtilte2-web {
+  font-weight: 400;
+  font-size: 2.1rem;
+}
+
+@mixin body-web {
+  font-weight: 200;
+  font-size: 1.8rem;
+}
+
+@mixin title-mobile {
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+@mixin subtitle-mobile {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+@mixin subtitle2-mobile {
+  font-weight: 200;
+  font-size: 1.9rem;
+}
+
+@mixin body-mobile {
+  font-weight: 100;
+  font-size: 1.6rem;
+}
+
+@mixin alternate {
+  font-weight: 100;
+  font-size: 1.4rem;
+}
